@@ -14,7 +14,10 @@ Input: arr[] = [10, 10, 10]
 Output: -1
 Explanation: The largest element of the array is 10 and the second largest element does not exist.
 
-SOLUTION->
+SOLUTION-> IN PYTHON
+
+
+
 class Solution:
     def getSecondLargest(self, arr):
         length = len(arr)
